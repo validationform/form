@@ -1,0 +1,40 @@
+{
+    "form":[
+        {
+            "name":"ram",
+            "email":"ram@gmail.com",
+            "Address":"Belapur Tal-Shrirampur",
+            "phoneno":"9855447788",
+            "gender":"Male",
+            "Dob":"2014-02-06"
+
+        },
+        {
+            "name":"sham",
+            "email":"sham@gmail.com",
+            "Address":"Pune Maharashtra",
+            "phoneno":"9857895418",
+            "gender":"Male",
+            "Dob":"2098-06-20"
+
+        },
+        {
+            "name":"Rashmi",
+            "email":"rashmi@gmail.com",
+            "Address":"Shrirampur tal-Ahmednagar",
+            "phoneno":"9855447896",
+            "gender":"Female",
+            "Dob":"2002-07-15"
+
+        },
+        {
+            "name":"Rohan",
+            "email":"rohan@gmail.com",
+            "Address":"Main road belapur",
+            "phoneno":"9857412598",
+            "gender":"Male",
+            "Dob":"2000-09-14"
+
+        }
+    ]
+}
